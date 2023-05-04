@@ -1,0 +1,25 @@
+venv/
+__pycache__/
+
+.pytest_cache/
+*.gz
+
+node_modules/
+docs/
+
+GcovReporter.egg-info/
+
+output/
+
+# coverage
+htmlcov
+.coverage
+
+*.json
+*.xml
+
+# mypy
+.mypy_cache/
+
+
+tests/examples/
